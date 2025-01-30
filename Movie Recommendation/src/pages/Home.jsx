@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import SearchBar from '../components/SearchBar';
 import RecommendationList from '../components/RecommendationList';
 import Inception from "../assets/Inception.jpg";
-import Interstellar from "../assets/interstellar.jpg";
+import Interstellar from "../assets/Interstellar.jpg";
 import TheDarkKnight from "../assets/TheDarkKnight.jpg";
 import AvengersEndgame from "../assets/Avengers Endgame.jpg";
 import Matrix from "../assets/The Matrix.jpg";
